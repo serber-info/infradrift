@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.1
+
+### Changed
+- Project metadata: author and project links now point to github.com/serber-info.
+- The footer of Markdown reports links to the current repository URL.
+- No functional changes.
+
 ## 1.1.0
 
 ### Fixed
